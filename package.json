@@ -1,0 +1,17 @@
+{
+  "name": "landing-with-api-platzi-async-curso",
+  "version": "1.0.0",
+  "description": "A lading page with api",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "ragosorio",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
